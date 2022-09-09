@@ -1,0 +1,28 @@
+/* make the text in tag h2 blue */
+h2 {
+  color: blue;
+}
+
+/* make the background color for the tag with class "easy" lightgreen */
+.easy {
+  background-color: lightgreen;
+}
+
+/* make the background color for the tag with class "medium" lightyellow */
+.medium {
+  background-color: lightyellow;
+}
+
+/* make the background color for the tag with class "hard" lightpink */
+.hard{
+  background-color: lightpink;
+}
+
+/* set the body background image and make it repeat throughout the entire page */
+body
+{
+  background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/seamless-repeating-background-tile-terryfic3d.jpg"); 
+  background-repeat: repeat;
+  background-color: lightgrey;
+  padding: 100px;
+}
